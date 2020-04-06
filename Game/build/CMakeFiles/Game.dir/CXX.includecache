@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Army.h
+Units/Archor.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Archor.h
+Units/Drummer.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Drummer.h
+Units/Spear.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Spear.h
+Units/Knight.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Knight.h
+Units/Roundshier.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Roundshier.h
+Units/SiegeWeapon.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/SiegeWeapon.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Archor.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Drummer.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Knight.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Roundshier.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/SiegeWeapon.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Spear.h
+Unit.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Units/Unit.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Economy.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Knowledge.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Player.h
+Army/Army.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Army/Army.h
+Town/Town.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Town.h
+Economy.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Economy.h
+Knowledge.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Knowledge.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Academy.h
+Academy.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Academy.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/ArtilleryDepot.h
+Building.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Building.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Barrack.h
+Building.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Building.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Building.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Mines.h
+Building.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Building.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Stable.h
+Stable.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Stable.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Towers.h
+Building.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Building.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Town.h
+Buildings/Mines.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Mines.h
+Buildings/Towers.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Towers.h
+Buildings/Academy.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Academy.h
+Buildings/Barrack.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Barrack.h
+Buildings/Stable.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/Stable.h
+Buildings/ArtilleryDepot.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Town/Buildings/ArtilleryDepot.h
+
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/main.cpp
+iostream
+-
+vector
+-
+Player.h
+/home/artemut/Рабочий стол/gametp/GameTP/GameStuff/Game/Player.h
+
